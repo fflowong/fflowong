@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @fflowong
 [![@fflowong's Holopin board](https://holopin.me/fflowong)](https://holopin.io/@fflowong)
 
 <!---
